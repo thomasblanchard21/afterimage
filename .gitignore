@@ -1,0 +1,37 @@
+# Outputs (models, videos, wandb)
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# W&B
+wandb/
+
+# LeRobot cache
+.cache/
+lerobot/
+lerobot/
